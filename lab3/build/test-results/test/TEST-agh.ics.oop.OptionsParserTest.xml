@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="agh.ics.oop.OptionsParserTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-11-07T20:28:44" hostname="MacBook-Pro-Adam.local" time="0.033">
+  <properties/>
+  <testcase name="parseTest()" classname="agh.ics.oop.OptionsParserTest" time="0.033"/>
+  <system-out><![CDATA[Nieznany kierunek
+Nieznany kierunek
+Nieznany kierunek
+Nieznany kierunek
+Nieznany kierunek
+Nieznany kierunek
+Nieznany kierunek
+Nieznany kierunek
+Nieznany kierunek
+Nieznany kierunek
+Nieznany kierunek
+Nieznany kierunek
+Nieznany kierunek
+Nieznany kierunek
+Nieznany kierunek
+Nieznany kierunek
+Nieznany kierunek
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
