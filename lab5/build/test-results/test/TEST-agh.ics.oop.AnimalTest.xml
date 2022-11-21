@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="agh.ics.oop.AnimalTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-11-21T20:05:29" hostname="MacBook-Pro-Adam.local" time="0.051">
+  <properties/>
+  <testcase name="getOrientationTest()" classname="agh.ics.oop.AnimalTest" time="0.044"/>
+  <testcase name="moveTest()" classname="agh.ics.oop.AnimalTest" time="0.003"/>
+  <testcase name="getPositionTest()" classname="agh.ics.oop.AnimalTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
