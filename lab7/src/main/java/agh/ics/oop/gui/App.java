@@ -88,10 +88,10 @@ public class App extends Application {
 
         for (int i = 0; i < cols - 1; i++) {
             label = new Label();
-            label.setText(Integer.toString(i + lowerLeftCorner.x+1));
+            label.setText(Integer.toString(i + lowerLeftCorner.x));
             label.setFont(new Font("Helvetica", 20));
             label.setTextFill(Color.BLACK);
-            grid.add(label, i + 1, 0);
+            grid.add(label, i+1, 0);
         }
 
         for (int i = 0; i < rows - 1; i++) {
@@ -99,7 +99,7 @@ public class App extends Application {
             label.setText(Integer.toString(i + lowerLeftCorner.y));
             label.setFont(new Font("Helvetica", 20));
             label.setTextFill(Color.BLACK);
-            grid.add(label, 0, i + 1);
+            grid.add(label, 0, rows-i-1);
         }
 
         addMapElements(mapElements, lowerLeftCorner, upperRightCorner, rows, cols);
